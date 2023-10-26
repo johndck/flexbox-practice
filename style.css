@@ -163,6 +163,7 @@ h2 {
   padding: 5px;
   border-radius: 15px;
   border: none;
+  background-color: rgba(0, 0, 126, 1);
 }
 
 .continue-button:hover {
